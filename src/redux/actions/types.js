@@ -1,0 +1,7 @@
+export const IS_LOADING = 'IS_LOADING';
+export const API_SUCCESS = 'API_SUCCESS';
+export const API_ERROR = 'API_ERROR';
+export const DATA_REQUESTED = 'DATA_REQUESTED';
+
+
+export const SHOW_IMAGE_DESCRIPTION = 'SHOW_IMAGE_DESCRIPTION';
